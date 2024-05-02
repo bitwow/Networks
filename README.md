@@ -7,9 +7,9 @@
 
 ## Содержание
 
-* [Полезная информация](https://github.com/bitwow/Networks/Sources.md)
-* [Конспекты лекций](https://github.com/bitwow/Networks/Notes/)
-* [Вопросы к зачету](https://github.com/bitwow/Networks/Questions.md)
-* [Лабораторные работы](https://github.com/bitwow/Networks/Lab.md)
+* [Полезная информация](https://github.com/bitwow/Networks/blob/main/Sources.md)
+* [Конспекты лекций](https://github.com/bitwow/Networks/blob/main/Notes/)
+* [Вопросы к зачету](https://github.com/bitwow/Networks/blob/main/Questions.md)
+* [Лабораторные работы](https://github.com/bitwow/Networks/blob/main/Lab.md)
 
 Информация, по мере прохождения предмета, будет изменяться. Проверяйте изменения.
