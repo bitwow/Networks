@@ -11,7 +11,7 @@
 * [Конспекты лекций](https://github.com/bitwow/Networks/blob/main/Notes/)
 * [Вопросы к зачету](https://github.com/bitwow/Networks/blob/main/Questions.md)
 * [Лабораторные работы](https://github.com/bitwow/Networks/blob/main/Lab.md)
-* [Практические работы](https://github.com/bitwow/Networks/blob/Practic/)
+* [Практические работы](https://github.com/bitwow/Networks/tree/main/Practic)
 
 ## Технические требования
 
